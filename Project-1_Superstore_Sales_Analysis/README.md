@@ -41,6 +41,10 @@ The objective is to identify key business insights and trends to support data-dr
 - Superstore Sample Dataset
 
 ---
+## 📸 Dashboard Screenshots
+
+### 🔹 Overall Dashboard
+![Dashboard Overview](dashboard_overview.png)
 
 ## 🎯 Key Learnings
 - Built interactive dashboards using Tableau
